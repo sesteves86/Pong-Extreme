@@ -1,0 +1,17 @@
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\Small Red Ball.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\Small Yellow Ball.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\ball2.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\ball3.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\Pong Background.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\ItemStrip.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\Evil Ball.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\Startup Menu.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\Brown Ball.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\SpriteFont1.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\Muhaha.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Content\Bounce.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Pong Extreme.exe
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Release\Pong Extreme.pdb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\obj\x86\Release\Pong Extreme.exe
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\obj\x86\Release\Pong Extreme.pdb

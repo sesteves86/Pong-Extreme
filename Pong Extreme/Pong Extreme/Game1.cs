@@ -162,17 +162,17 @@ namespace Pong_Extreme
                     foreach(Ball ball in ballList)
                     {
                         //Check impact against each player
-                        ball.HasCollision(player1.position, player1.playerSprite.Width, player1.playerSprite.Height, bounceSound);
-                        ball.HasCollision(player2.position, player2.playerSprite.Width, player2.playerSprite.Height, bounceSound);
+                        ball.HasCollision(player1.position, player1.playerSprite.Width, player1.playerSprite.Height, bounceSound, player1);
+                        ball.HasCollision(player2.position, player2.playerSprite.Width, player2.playerSprite.Height, bounceSound, player2);
                 
                         //Check impact against each player's tail
                         foreach (var body in player1.bodyList)
                         {
-                            ball.HasCollision(body.GetPosition, player1.playerSprite.Width, player1.playerSprite.Height, bounceSound);
+                            ball.HasCollision(body.GetPosition, player1.playerSprite.Width, player1.playerSprite.Height, bounceSound, body);
                         }
                         foreach (var body in player2.bodyList)
                         {
-                            ball.HasCollision(body.GetPosition, player2.playerSprite.Width, player2.playerSprite.Height, bounceSound);
+                            ball.HasCollision(body.GetPosition, player2.playerSprite.Width, player2.playerSprite.Height, bounceSound, body);
                         }
 
                         //Check impact against other balls
@@ -180,7 +180,7 @@ namespace Pong_Extreme
                         {
                             if (otherBall != ball)
                             {
-                                ball.HasCollision(otherBall.position, player1.playerSprite.Width, player1.playerSprite.Height, bounceSound);
+                                ball.HasCollision(otherBall.position, player1.playerSprite.Width, player1.playerSprite.Height, bounceSound, otherBall);
                             }
                         }
 

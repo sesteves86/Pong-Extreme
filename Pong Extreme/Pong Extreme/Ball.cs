@@ -60,6 +60,9 @@ namespace Pong_Extreme
 
         public Ball(Texture2D newBallSprite, Vector2 _position)
         {
+            //to remove
+            isEvil = true;
+
             ballSprite = newBallSprite;
 
             isActive = true;
@@ -114,7 +117,7 @@ namespace Pong_Extreme
             spriteBatch.Draw(ballSprite, position, Color.White);
         }
 
-        public void HasCollision(Vector2 otherPosition, int spriteWidth, int spriteHeight, SoundEffect bounceSound){
+        public void HasCollision(Vector2 otherPosition, int spriteWidth, int spriteHeight, SoundEffect bounceSound, object otherType){
             if (this.position.X >= otherPosition.X - spriteWidth / 2 &&
                     this.position.X <= otherPosition.X + spriteWidth / 2 &&
                     this.position.Y >= otherPosition.Y - spriteHeight / 2 &&
@@ -135,8 +138,16 @@ namespace Pong_Extreme
                     velocity.X *= -1;
 
                 
-                //Player touching it
+                // Last player touching it
                 if (!this.isEvil)
+                {
+                    if (this.position.X < Constants.WINDOW_WIDTH / 2)
+                        idPlayer = 1;
+                    else
+                        idPlayer = 2;
+                }
+                
+                if (this.isEvil && otherType is Player)
                 {
                     if (this.position.X < Constants.WINDOW_WIDTH / 2)
                         idPlayer = 1;
