@@ -1,0 +1,18 @@
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\obj\x86\Debug\Pong Extreme.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Small Red Ball.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Small Yellow Ball.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\ball2.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\ball3.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Pong Extreme.exe
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Pong Extreme.pdb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\obj\x86\Debug\Pong Extreme.exe
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\obj\x86\Debug\Pong Extreme.pdb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Pong Background.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\ItemStrip.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Evil Ball.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Startup Menu.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Muhaha.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Bounce.xnb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Brown Ball.xnb

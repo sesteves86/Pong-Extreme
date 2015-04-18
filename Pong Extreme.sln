@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong Extreme", "Pong Extreme\Pong Extreme\Pong Extreme.csproj", "{58BAB4FC-388D-455A-AF93-BBA98A2FA9ED}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Pong ExtremeContent", "Pong Extreme\Pong ExtremeContent\Pong ExtremeContent.contentproj", "{86F82AB8-1B86-4CF0-A939-919B6BE5680E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BAB4FC-388D-455A-AF93-BBA98A2FA9ED}.Debug|x86.ActiveCfg = Debug|x86
+		{58BAB4FC-388D-455A-AF93-BBA98A2FA9ED}.Debug|x86.Build.0 = Debug|x86
+		{58BAB4FC-388D-455A-AF93-BBA98A2FA9ED}.Release|x86.ActiveCfg = Release|x86
+		{58BAB4FC-388D-455A-AF93-BBA98A2FA9ED}.Release|x86.Build.0 = Release|x86
+		{86F82AB8-1B86-4CF0-A939-919B6BE5680E}.Debug|x86.ActiveCfg = Debug|x86
+		{86F82AB8-1B86-4CF0-A939-919B6BE5680E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

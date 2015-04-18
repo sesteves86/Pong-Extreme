@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Small Red Ball.png</Source>
+      <Name>Small Red Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Small Red Ball.xnb</Output>
+      <Time>2015-04-17T20:57:17.7697634+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Small Yellow Ball.png</Source>
+      <Name>Small Yellow Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Small Yellow Ball.xnb</Output>
+      <Time>2015-04-17T20:57:17.7847732+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ball2.png</Source>
+      <Name>ball2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\ball2.xnb</Output>
+      <Time>2015-04-17T20:57:45.3144325+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ball3.png</Source>
+      <Name>ball3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\ball3.xnb</Output>
+      <Time>2015-04-17T20:57:45.3164326+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pong Background.png</Source>
+      <Name>Pong Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Pong Background.xnb</Output>
+      <Time>2015-04-17T21:31:58.9238279+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-04-17T21:56:02.6594584+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ItemStrip.png</Source>
+      <Name>ItemStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\ItemStrip.xnb</Output>
+      <Time>2015-04-18T13:27:48.6217488+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Evil Ball.png</Source>
+      <Name>Evil Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Evil Ball.xnb</Output>
+      <Time>2015-04-18T13:50:14.7432317+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Startup Menu.png</Source>
+      <Name>Startup Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Startup Menu.xnb</Output>
+      <Time>2015-04-18T15:10:27.8780192+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Muhaha.wma</Source>
+      <Name>Muhaha</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Muhaha.xnb</Output>
+      <Time>2015-04-18T22:25:40.637046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bounce.wma</Source>
+      <Name>Bounce</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Bounce.xnb</Output>
+      <Time>2015-04-18T22:27:32.1094544+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Brown Ball.png</Source>
+      <Name>Brown Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\Brown Ball.xnb</Output>
+      <Time>2015-04-18T22:46:09.1931057+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong ExtremeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong ExtremeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\sergio\Documents\Visual Studio 2010\Projects\Pong Extreme\Pong Extreme\Pong Extreme\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-07T17:06:49.5004156+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
